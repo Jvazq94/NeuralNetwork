@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="calltoshader">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scenes\calltoshader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="collisionSword">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\collisionSword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="enemeyMovement">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="enemeyMovement.actions" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\enemeyMovement.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="enemeyMovement.stateArm" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\enemeyMovement.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QARAAwkQASCIEBAQAIhAAAgQCrAAABAAgARgIIAAAAA=</HashCode>
+      <FileName>Assets\Scripts\enemeyMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Constantes">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAggAAAACA=</HashCode>
+      <FileName>Assets\Scripts\IA\Constantes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RedNeuronal">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIIIABAABAEEAAAAACAAAAAAAgAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\IA\RedNeuronal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RedNeuronalCapa">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAACAAAQAAAIAAAgACAAAJgQAAACACAAAECAAQAAQ=</HashCode>
+      <FileName>Assets\Scripts\IA\RedNeuronalCapa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RedNeuronalCharacter">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAgBCAAAAAAAAIAFAAABCBAQAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\IA\RedNeuronalCharacter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="movement">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="movement.actions" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\movement.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="movement.stateArm" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\movement.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QAQBAgkAASCAEJAQAABAAAgQAKAAAAAAAAQgAAAAIAA=</HashCode>
+      <FileName>Assets\Scripts\movement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sineanimation">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAgAABAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\sineanimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
